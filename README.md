@@ -22,4 +22,5 @@
 
 <img src="https://user-images.githubusercontent.com/8939680/57233882-20344080-6fe5-11e9-9086-d20a955bed59.png" width="16" height="16" /> &nbsp;Axios
 
+Click on the GIF below to enlarge.
 <img src="https://i.imgur.com/osv0iQP.gif" width="1000" height="500">
